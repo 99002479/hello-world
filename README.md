@@ -1,3 +1,3 @@
 # hello-world
 
-Change made in read-me edits
+Simple code to print hello world
