@@ -1,3 +1,3 @@
 # hello-world
 
-Change made im read-me edits
+Change made in read-me edits
